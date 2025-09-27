@@ -1,4 +1,4 @@
-# Conversation-Q-A-Chatbot-using-Langchain-Project-Gen-AI-Project
+# Conversation-Q-A-Chatbot-using-Langchain-Project-GenAI-Project
 This Repository contains my working files of "Conversation Q&A Chatbot with RAG using Langchain Project", an Gen AI Project
 
 (i) Built a conversational Q&A chatbot using LangChain and Groq API
